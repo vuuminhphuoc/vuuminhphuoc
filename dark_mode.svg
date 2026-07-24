@@ -16,57 +16,31 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#0d1117" rx="15"/>
-<text x="15" y="25" fill="#c9d1d9" class="ascii" font-size="9px">
-<tspan x="15" y="25">                          .iBW#%%%%%%%#MB|;,.</tspan>
-<tspan x="15" y="35">                      ;|iB#&amp;$$$&amp;&amp;%&amp;$$&amp;&amp;&amp;&amp;%#WM8|:.</tspan>
-<tspan x="15" y="45">                  .|BW&amp;&amp;&amp;$@@@@@@@@@@@@$$&amp;%%%#W#8;:.</tspan>
-<tspan x="15" y="55">              .iBMW%&amp;$@$$$$$$@@@@@@@@$&amp;&amp;$&amp;&amp;%%%%%Mi;..</tspan>
-<tspan x="15" y="65">             l#%&amp;$$$$$$$$$$$$@@@@@@@@$$@@@@$$$$$$8i:.,:.</tspan>
-<tspan x="15" y="75">           .B%&amp;$$$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@$@&amp;B|||B|:.</tspan>
-<tspan x="15" y="85">           B$@@@@@@@@@@@@@@$$%#WMWWWWWWMMMMW#&amp;@@@@$%#MBlli.</tspan>
-<tspan x="15" y="95">          l$@@@@@@@@&amp;%#WM8Bl|ii;;;;;;;;;;;;;;;|8%$@$&amp;##MB|,.</tspan>
-<tspan x="15" y="105">         8@@@@@@$%WBll|ii;;:::::,,,,,,,:,:::::::;l%$&amp;$&amp;&amp;&amp;W|,</tspan>
-<tspan x="15" y="115">        ;$@@@$$WBl|ii;;;::::::,,,,,,,,,,,,,,,::::;iM&amp;&amp;$$$&amp;B:.</tspan>
-<tspan x="15" y="125">       ,%$$@$$Ml|iiiii;;;::::::::,,,,,,,,,,,::::;;;iM&amp;$$&amp;&amp;M,</tspan>
-<tspan x="15" y="135">       l$$$$$Wll||iiii;;;::::::::::::,,,,,,,::::;;;;iW&amp;$$&amp;W.</tspan>
-<tspan x="15" y="145">       M$$$@&amp;Blll||ii;;:::,,,,,,,,,,:,,,,,,,::::;;;;iB&amp;$$$M.</tspan>
-<tspan x="15" y="155">       l&amp;$$@#llll||ii;:::,,,,,,,,,,,,,,,,,,,,:::;;;ii|%&amp;$&amp;B</tspan>
-<tspan x="15" y="165">       i$@@@MlllllBBBBll|ii;;::,::::::::::;ii|||i;;iiiM&amp;&amp;$8.</tspan>
-<tspan x="15" y="175">       :$@@%BllllB888MW##WMBl|iiiiii||llBMMM8ll||||iiil&amp;$$B.</tspan>
-<tspan x="15" y="185">       ,&amp;@@#l||llBllllBMW###W8Bll||lB8MMWM8B|ii;;iii;;i#@$|</tspan>
-<tspan x="15" y="195">        %$WlW###&amp;&amp;######W##%%#W8l||l8MW##WM8888BBBB|iiiM@@i</tspan>
-<tspan x="15" y="205">        W#l|W%$@$#%$&amp;&amp;@@&amp;%%W%$&amp;%#WWW#&amp;&amp;#%&amp;$@$%#%#W%@$&amp;&amp;W|#:</tspan>
-<tspan x="15" y="215">      :|l&amp;@8|lM@MMWWMM##MMWMBW@%WMM#@%B8WWW%#BB8MBl%@#MW8|;:</tspan>
-<tspan x="15" y="225">      8W8W%|lll$Bi||llBBBBBBlW@W;::M@Mi|lBBBlll||ii##iiB#iBM,</tspan>
-<tspan x="15" y="235">     ,8Bl8Wi|||MWiiiiiiiii|l8$%|,,,;%&amp;i;;;iii;;iii|&amp;lii|8;|B:</tspan>
-<tspan x="15" y="245">     :BlBMM||l||#8ii;;;;;;|8&amp;#i,,..,;##i;;::::::;iWB:;i|8iil:</tspan>
-<tspan x="15" y="255">      llM#M|lll||B8Bll||l8WM||l|;;::;:iBB|i;;;;ilMl:;;i|MBii</tspan>
-<tspan x="15" y="265">      ;lB88lllll||lllBB8MWWB8%&amp;#M8BW%Wli8WM888Bl|;:;;ii|l|i:</tspan>
-<tspan x="15" y="275">      .lBlBBlBBlll|||||lBB8W%%%%#M88M#WB||B8l|i;;;;;ii||i|i</tspan>
-<tspan x="15" y="285">       .|llBlBBBBlll|||l|||llBB||||;;ii;;;ilB||iiiiii||;ii.</tspan>
-<tspan x="15" y="295">        .i|lilB8BBBlllll||iiii|i;;i;;;;;;;iil8l|||||||ii;,</tspan>
-<tspan x="15" y="305">             iB88BBBlBB8BB88MMMMM8B88888BB8BlBl||||||:</tspan>
-<tspan x="15" y="315">              |B888BBB8W#%%#WWM88M8BBBBlB88Bll||||||;</tspan>
-<tspan x="15" y="325">               |8888888888MM8Bl|iiiii||ll|i|llll|lli</tspan>
-<tspan x="15" y="335">                iBMMM88BBB8MWMM88888BBBl||i||lllll;</tspan>
-<tspan x="15" y="345">                :BB8WMM88888MMWMMMM88Bl||ii||lBBB;</tspan>
-<tspan x="15" y="355">                ,88MMWWM88BBBBllll||iiiiiii|B88Bl,</tspan>
-<tspan x="15" y="365">                .B8MWWWWWM8BBBll||||iiiii|l8M8Bl|</tspan>
-<tspan x="15" y="375">                 BB8MW######WWMMM888BBB88MMMBl||i</tspan>
-<tspan x="15" y="385">                .BBB88MW####%%%%%######WM8Bl||iii</tspan>
-<tspan x="15" y="395">             iM8llBBBB8MMWW#######WWM8BBlll||iiiiii,</tspan>
-<tspan x="15" y="405">        .::iW%M|lBllBBB88MWWWWWWM88Blllll||iii;ii|M&amp;Wl.</tspan>
-<tspan x="15" y="415">    :iBM###%%%B|BBllllBBB8MMMWWWM8BBBlll||iii;;;ii;|#WMBli:</tspan>
-<tspan x="15" y="425">il8W##W##%%&amp;&amp;&amp;#BlBllllllBB8888MMMM8Bll|||iii;;;;;i;|W#####WMBi:.</tspan>
-<tspan x="15" y="435">#########%&amp;&amp;&amp;&amp;&amp;#BllllllllBBBBBBBBBll||||iiii;;;;;;iM######WWWWWW8l</tspan>
-<tspan x="15" y="445">########%#%&amp;&amp;&amp;$$&amp;WBllllllllB8BBBBllll||iiiiiii;;;|W######WWW#WWWW#</tspan>
-<tspan x="15" y="455">########%%#%&amp;&amp;&amp;&amp;$$&amp;W8BBllllllBBBBBlll|ii;iiiiiilM%%%####WWW#WWWWWW</tspan>
-<tspan x="15" y="465">########%%%##%%&amp;&amp;&amp;$$$%#W8Bllllllllll||ii;i||BM#%%%%%###WW#W#WWWW#W</tspan>
-<tspan x="15" y="475">###############%%%%&amp;&amp;$$$&amp;%#WM88888BBBBBB8W#%&amp;&amp;&amp;%%####WWW#####WWWWW</tspan>
-<tspan x="15" y="485">%################%%%%%%&amp;&amp;$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%%%###W#########WWWW#</tspan>
-<tspan x="15" y="495">##%######%###%%%%%%%%%%%%%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%%%%%###############WWWW#</tspan>
-<tspan x="15" y="505">#########%##%%%%%%%%%%%%%%%%%&amp;&amp;&amp;&amp;%&amp;&amp;&amp;&amp;%%%%%%%###############WWWW##</tspan>
-<tspan x="15" y="515">############%%%%%%%%##%%%%%%%%%%%&amp;&amp;&amp;%%%%%%%%%%##############WWWWWW</tspan>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                  &#x27;,,,&#x27;</tspan>
+<tspan x="15" y="50">             &#x27;;|g$@@@@@$gl|,</tspan>
+<tspan x="15" y="70">         ,|w$@@@@@@@@@@@@@@$l&#x27;</tspan>
+<tspan x="15" y="90">        w@@@@@@@@$%gg%gggg$@@gl|,</tspan>
+<tspan x="15" y="110">       %@@@%l|;,&#x27;&#x27;&#x27;       &#x27;&#x27;|%@$%;</tspan>
+<tspan x="15" y="130">      g@@g;,&#x27;&#x27;&#x27;&#x27;            &#x27;&#x27;l@@g</tspan>
+<tspan x="15" y="150">     &#x27;@@$;;,,&#x27;&#x27;            &#x27;&#x27;&#x27;,g@g</tspan>
+<tspan x="15" y="170">      $@w;;;||||;,&#x27;&#x27;&#x27;&#x27;&#x27;,;;,,,&#x27;&#x27;|@g</tspan>
+<tspan x="15" y="190">      g%|lwwwwg%%gl|;|wggw||;|;;$l</tspan>
+<tspan x="15" y="210">     &#x27;lg;w$lwwgwww@l|$wlw%wl|w$ll,</tspan>
+<tspan x="15" y="230">     ||l,;l;&#x27;&#x27;,,;wl  |l,&#x27;&#x27;&#x27;&#x27;&#x27;|;&#x27;|,,</tspan>
+<tspan x="15" y="250">     ,ll;;;;;;;|lll;,;|;|;,,,,&#x27;,;,</tspan>
+<tspan x="15" y="270">      ;|||;;;;;;;ll|;;;,,;;,&#x27;&#x27;,,,&#x27;</tspan>
+<tspan x="15" y="290">         ;||;;|||||;;;;;;;;;,,,</tspan>
+<tspan x="15" y="310">          ,ll|llww||;;;;;;;;;,</tspan>
+<tspan x="15" y="330">           |lwl||||||;;,,,||,</tspan>
+<tspan x="15" y="350">           ;lwgwwl|||;;;|||;</tspan>
+<tspan x="15" y="370">         &#x27;&#x27;;||lwgggggwl||;,,&#x27;</tspan>
+<tspan x="15" y="390">    &#x27;,|l%g;;;;||lwwl|;;;,&#x27;&#x27;&#x27;,;w|,&#x27;</tspan>
+<tspan x="15" y="410">;lwg%g%$$$w|;;;;|||||;,,&#x27;&#x27;&#x27;&#x27;&#x27;;gg%gwl|;&#x27;</tspan>
+<tspan x="15" y="430">%ggggg%%%$@$gwl|;;;;;;,&#x27;,,;|w%%ggwgwgggg</tspan>
+<tspan x="15" y="450">g%%ggg%gg%%%$$$$%ggwwwwwg%%%%ggggggwwggg</tspan>
+<tspan x="15" y="470">%gg%gg%%%%%%%%%$$$$$$$$$%%%%gggggggwwggg</tspan>
+<tspan x="15" y="490">%gggggg%%%%%%g%%%%%%%%%%%%%%ggggggggwgg%</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">vuuminhphuoc@github</tspan> -—————————————————————————————————————-—-
@@ -88,8 +62,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">vuuminhphuoc</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">vuuminhphuoc</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -——————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">30</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">439</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">1</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">166,549</tspan> ( <tspan class="addColor" id="loc_add">193,609</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">27,060</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
