@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-16",
+  "person": {
+    "name": "Vưu Minh Phước",
+    "role": "Full-Stack Developer",
+    "experience_label": "5+ years",
+    "location": "Ca Mau, Vietnam",
+    "timezone": "UTC+7",
+    "email": "vuuminhphuoc@gmail.com",
+    "phone": "+84 384 065 428",
+    "github_url": "https://github.com/vuuminhphuoc",
+    "linkedin_url": "https://www.linkedin.com/in/vuuminhphuoc/",
+    "portfolio_url": "https://vuuminhphuoc-portfolio.netlify.app/",
+    "bio": "Full-Stack Developer with 5+ years of experience delivering web and mobile applications. Focused on React, Next.js, Node.js, PHP/Laravel, and React Native: from business platforms and custom WordPress websites to enterprise integrations and offline-first mobile apps. Based in Ca Mau, Vietnam; open to 100% remote roles and freelance projects with Vietnamese-speaking teams.",
+    "availability": "Open to 100% remote roles and freelance projects",
+    "communication": "Vietnamese for interviews and team collaboration; English for technical reading and writing"
+  },
+  "skills": [
+    {
+      "name": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "Vue.js / NuxtJS",
+        "TypeScript",
+        "React Native / Expo"
+      ]
+    },
+    {
+      "name": "Backend",
+      "items": [
+        "Node.js / NestJS",
+        "PHP / Laravel",
+        "WordPress",
+        "Golang",
+        "Python / FastAPI"
+      ]
+    },
+    {
+      "name": "Database & Integration",
+      "items": [
+        "MySQL / PostgreSQL",
+        "MongoDB / Redis",
+        "Apache NiFi",
+        "Frappe",
+        "SQLite"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full-Stack Developer",
+      "org": "BlueCoral",
+      "start": "2025-01-01",
+      "end": null,
+      "summary": [
+        "Building SEO-friendly web applications with NuxtJS and ReactJS, alongside custom WordPress websites.",
+        "Developing backend services with Golang and integrating business APIs.",
+        "Designing enterprise data synchronization with Apache NiFi and Frappe.",
+        "Building offline-first POS mobile apps with React Native, Expo, Zustand, and SQLite."
+      ]
+    },
+    {
+      "role": "Full-Stack Developer",
+      "org": "Cozwork Joint Stock Company",
+      "start": "2020-09-01",
+      "end": "2024-08-31",
+      "summary": [
+        "Delivered CRM systems, healthcare platforms, and NFC digital business cards.",
+        "Led full-stack feature development from concept to deployment.",
+        "Optimized database performance across multiple client portfolios.",
+        "Awarded \"Dedicated Employee of the Year\" (December 2023)."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dedicated Employee of the Year",
+      "date": "2023-12-01",
+      "awarder": "Cozwork Joint Stock Company"
+    }
+  ],
+  "projects": [
+    {
+      "id": "wordpress-sites",
+      "title": "Corporate & Hospitality Websites",
+      "summary": "Custom WordPress and responsive frontend work for corporate and hospitality brands, including EtchLab, Ambrosia, and The Myst Sapa.",
+      "category": "Frontend",
+      "role": "Full-Stack Developer",
+      "status": "Ongoing",
+      "tech_stack": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "HTML5/CSS3",
+        "TypeScript",
+        "Vite",
+        "ACF"
+      ],
+      "portfolio_path": "/projects/wordpress-sites/",
+      "source_url": null,
+      "upstream_url": null,
+      "attribution": "Professional project contribution; client source code is not published.",
+      "highlights": [
+        "Responsive Figma-to-code delivery for corporate and hospitality websites.",
+        "WordPress theme parity and reusable shared components.",
+        "Tablet/mobile layout refinement and optimized image delivery."
+      ]
+    },
+    {
+      "id": "ai-chat-platform",
+      "title": "AI Chatbot & Workflow Customization",
+      "summary": "Custom Dify-based chatbot workflows with interactive forms, carousel responses, embedded chat, and knowledge retrieval for hospitality use cases.",
+      "category": "Full-Stack",
+      "role": "Full-Stack Developer",
+      "status": "Ongoing",
+      "tech_stack": [
+        "Python",
+        "Next.js",
+        "Dify",
+        "Redis",
+        "Docker",
+        "RAG"
+      ],
+      "portfolio_path": "/projects/ai-chat-platform/",
+      "source_url": null,
+      "upstream_url": "https://github.com/langgenius/dify",
+      "attribution": "Custom workflows and website integration built on Dify.",
+      "highlights": [
+        "Custom interactive carousel and form workflows on Dify.",
+        "Embedded chat rendering and workflow continuation.",
+        "Knowledge retrieval for hospitality assistants."
+      ]
+    },
+    {
+      "id": "qpos-mobile",
+      "title": "Q-POS Mobile: Offline-First POS",
+      "summary": "Modern offline-first Point of Sale mobile app for hospitality with barcode scanning and real-time inventory sync.",
+      "category": "Frontend",
+      "role": "Full-Stack Developer",
+      "status": "Live",
+      "tech_stack": [
+        "React Native",
+        "Expo",
+        "TypeScript",
+        "Zustand",
+        "SQLite"
+      ],
+      "portfolio_path": "/projects/qpos-mobile/",
+      "source_url": null,
+      "upstream_url": null,
+      "attribution": "Professional project contribution; client source code is not published.",
+      "highlights": [
+        "Offline-first POS workflows using Expo, Zustand, and SQLite.",
+        "Barcode scanning and inventory synchronization for hospitality use cases."
+      ]
+    },
+    {
+      "id": "scrm-sync",
+      "title": "S-CRM Sync: Enterprise Data Synchronization",
+      "summary": "Real-time enterprise data synchronization platform bridging a PMS and Frappe CRM using Apache NiFi.",
+      "category": "Backend",
+      "role": "Full-Stack Developer",
+      "status": "Live",
+      "tech_stack": [
+        "Apache NiFi",
+        "Node.js",
+        "Frappe",
+        "Jolt"
+      ],
+      "portfolio_path": "/projects/scrm-sync/",
+      "source_url": null,
+      "upstream_url": null,
+      "attribution": "Professional project contribution; client source code is not published.",
+      "highlights": [
+        "PMS-to-Frappe CRM synchronization using Apache NiFi.",
+        "Data mapping for reservations, guest profiles, and POS orders."
+      ]
+    },
+    {
+      "id": "page-builder",
+      "title": "W-Dashboard: Drag & Drop Page Builder",
+      "summary": "Admin dashboard featuring a visual drag-and-drop page builder for composing pages without code.",
+      "category": "Frontend",
+      "role": "Frontend Developer",
+      "status": "Live",
+      "tech_stack": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Craft.js",
+        "Radix UI",
+        "TanStack Query",
+        "Zustand"
+      ],
+      "portfolio_path": "/projects/page-builder/",
+      "source_url": null,
+      "upstream_url": null,
+      "attribution": "Professional project contribution; client source code is not published.",
+      "highlights": []
+    },
+    {
+      "id": "agent-teamwork",
+      "title": "Agent Teamwork: AI Coding Orchestration",
+      "summary": "Personal developer tooling for capability-based AI teamwork, file ownership, resumable sessions, and an OpenCode adapter.",
+      "category": "Developer Tools",
+      "role": "Developer",
+      "status": "Developer Tool",
+      "tech_stack": [
+        "TypeScript",
+        "Node.js",
+        "OpenCode"
+      ],
+      "portfolio_path": "/projects/agent-teamwork/",
+      "source_url": null,
+      "upstream_url": null,
+      "attribution": "Personal developer tooling: core policy engine and OpenCode integration.",
+      "highlights": [
+        "Built the core teamwork policy engine and OpenCode adapter.",
+        "Added persisted lifecycle state and resume/cancel/status controls.",
+        "Enforced file claims and stopped execution after a dry run."
+      ]
+    },
+    {
+      "id": "robocopy-gui",
+      "title": "RoboCopy GUI: Local File Operations",
+      "summary": "A React and Node.js interface for Windows robocopy with dual-pane navigation and more deliberate handling of expensive folder operations.",
+      "category": "Developer Tools",
+      "role": "Developer",
+      "status": "Local Tool",
+      "tech_stack": [
+        "React",
+        "Vite",
+        "Node.js",
+        "Express",
+        "Windows"
+      ],
+      "portfolio_path": "/projects/robocopy-gui/",
+      "source_url": null,
+      "upstream_url": null,
+      "attribution": "Personal application built around the Windows robocopy utility.",
+      "highlights": [
+        "Implemented dual-pane file operation workflows.",
+        "Moved folder-size calculation to an explicit user action instead of expensive automatic scans.",
+        "Added an item information action and refined pane navigation refresh."
+      ]
+    },
+    {
+      "id": "portfolio-showcase",
+      "title": "Portfolio Video Workflow: OpenShorts",
+      "summary": "A local workflow connecting curated case studies, recording briefs, video processing, and approved showcase clips.",
+      "category": "Developer Tools",
+      "role": "Integration Developer",
+      "status": "Developer Tool",
+      "tech_stack": [
+        "Python",
+        "OpenShorts",
+        "REST API",
+        "Hugo"
+      ],
+      "portfolio_path": "/projects/portfolio-showcase/",
+      "source_url": null,
+      "upstream_url": "https://github.com/mutonby/openshorts",
+      "attribution": "Portfolio integration built around the upstream OpenShorts platform.",
+      "highlights": [
+        "Generate project recording briefs from the same profile used by the portfolio and CV.",
+        "Prepare video processing offline, then submit explicitly to a local OpenShorts instance.",
+        "Export reviewed clips with project attribution into the portfolio."
+      ]
+    }
+  ]
+}

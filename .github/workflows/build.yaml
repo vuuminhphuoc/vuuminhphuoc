@@ -33,6 +33,8 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: vuuminhphuoc
         run: python today.py
+      - name: Apply portfolio profile to SVGs and README
+        run: python render_profile.py
       - name: Commit
         run: |-
           git add .
